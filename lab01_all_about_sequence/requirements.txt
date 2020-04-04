@@ -4,3 +4,4 @@ pandas
 matplotlib
 torch
 torchvision
+kaggle
